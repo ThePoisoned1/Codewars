@@ -1,4 +1,3 @@
-## Solutions
 |kata|
 |--|
 |[Josephus Permutation](https://github.com/ThePoisoned1/Codewars/blob/main/java/5kyu/src/Josephus.java)|
